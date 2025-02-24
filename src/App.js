@@ -6,11 +6,13 @@ const messages = [
   "Invest your new income 🤑",
 ];
 export default function App(){
-  return
-  <div>
+  return(
+    <div>
     <Steps />
-    <Steps />
-  </div>
+      </div>
+  )
+      
+ 
 }
 
 function Steps(){
